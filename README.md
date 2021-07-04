@@ -14,6 +14,9 @@
 <li>Basic CRUD operations</li>
 <li>Redirect, Routing, Authentication</li>
 <li>POST-Redirect-GET practise</li>
+<li>HTML Injection</li>
+<li>SQL Injection</>
+<li>PHP-PDO</li>
 <li>Jquery and json</li>
 <li>and a lots more bits and bytes of web applications</li>
 </ul>
