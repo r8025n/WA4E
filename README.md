@@ -20,5 +20,5 @@
 <li>Jquery and json</li>
 <li>and a lots more bits and bytes of web applications</li>
 </ul>
-<p>And another thing I must mention, the course instructor <strong>Charles Severance</strong> was a great mentor.</p>
+<p>And another thing I must mention, the course instructor <strong>Dr. Charles Severance</strong> was a great mentor.</p>
 <p><strong>Course Link:</strong> https://www.coursera.org/specializations/web-applications </p>
