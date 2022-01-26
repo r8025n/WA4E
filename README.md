@@ -1,7 +1,7 @@
 <h1>Web Application For Everybody</h1>
 <p>This is my own solution to the online course <strong>Web application for everybody</strong>. The purpose of this online course was to get familiar with basic concept of web application development, mainly the server side development. Rather than focusing on teaching any specific development stack or framework, it's main puspose was teaching basic web concepts using HTML, CSS, JavaScript, PHP and MySQL. Secure development was another main focus of this course.</p>
 
-<h2>What can be learnt throughtout this course:</h2>
+<h2>What I learnt throughtout this course:</h2>
 <ul>
 <li>Good and secure development practises</li>
 <li>Server side rendering</li>
